@@ -20,7 +20,7 @@ public class CommonController {
 
         log.info(">> " + userName + " << 요청이 들어왔습니다.");
 
-        return "hello";
+        // return "hello";
     }
     // 수정중....
 }
