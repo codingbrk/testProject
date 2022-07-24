@@ -22,5 +22,4 @@ public class CommonController {
 
         // return "hello";
     }
-    // 수정중....
 }
