@@ -24,4 +24,6 @@ public class CommonController {
     }
 }
 
-//로컬에서 수정중
+// 로컬에서 수정중
+로컬에서 수정중이나
+원격에서도 수정중

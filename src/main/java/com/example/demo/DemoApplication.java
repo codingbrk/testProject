@@ -12,3 +12,7 @@ public class DemoApplication {
 
 }
 // 원격에서 수정발생
+
+
+
+로컬에서 미수정중이나 원격에서 
