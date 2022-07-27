@@ -25,12 +25,7 @@ public class CommonController {
 }
 
 // 로컬에서 수정중
-로컬에서 수정중이나
-원격에서도 수정중
-co
 
-dkjefi
+동시 수정
 
-conflict
-
-11111
+추가 수정
