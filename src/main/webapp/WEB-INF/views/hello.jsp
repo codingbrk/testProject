@@ -9,5 +9,8 @@
 </head>
 <body>
     <%= request.getParameter("userName")%> 님 환영합니다
+    <th:each></th:each>
+    <th:each></th:each>
+    <th:each></th:each>
 </body>
 </html>
