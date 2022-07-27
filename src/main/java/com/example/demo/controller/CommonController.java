@@ -23,3 +23,5 @@ public class CommonController {
         // return "hello";
     }
 }
+
+로컬에서 수정중이나 원격에서도 수정중
